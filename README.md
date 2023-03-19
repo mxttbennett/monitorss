@@ -41,7 +41,7 @@ MonitoRSS requires node.js v12.16. As of 23 May 2020, Glitch does not install v1
 
 1. Click the remix button and wait for the setup to complete. Be sure to make your project private to protect your configs.
 
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/synzen/MonitoRSS-Clone)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/mxttbennett/monitorss)
 
 2. Open terminal and run the following command. Adding the git remote will let you pull updates from the clone repo.
 ```
